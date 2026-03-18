@@ -5,7 +5,8 @@
 
 */
     int main(){
-        printf("%i",10);
+        printf("%i\n",10);
+        printf("%f/n",10.3455)
         printf( "um texto qualquer\n");
         
         
