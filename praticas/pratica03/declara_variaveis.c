@@ -2,7 +2,7 @@
 
 int maisn( ){
     int  idade=20;
-    char sexo={'M'} ;
+    char sexo='M';
     float altura=1.66;
     float peso=61.40;
 
