@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int maisn( ){
+int main( ){
     int  idade=20;
     char sexo='M';
     float altura=1.66;
